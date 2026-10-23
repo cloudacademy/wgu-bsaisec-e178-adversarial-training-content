@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+pyvenv.cfg
+requirements.txt
+setup_venv.sh
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Generated lab outputs
+reports/
+reports.zip
